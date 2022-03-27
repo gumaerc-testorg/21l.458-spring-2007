@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: aee16d14-b058-6997-31c1-c427a71b5114
 resourcetype: Document
 title: primeval_cycle.pdf
 uid: e9e488c2-8ff7-4582-f33e-ed34729fdcb6

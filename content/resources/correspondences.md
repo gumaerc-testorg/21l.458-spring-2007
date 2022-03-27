@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2a4e9a1a-fb0e-d9d7-ce25-bea30b09fae8
 resourcetype: Document
 title: correspondences.pdf
 uid: 4a829112-75b4-094c-91b9-c9d76f6e942a

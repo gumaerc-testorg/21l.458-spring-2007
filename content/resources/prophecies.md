@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2a4e9a1a-fb0e-d9d7-ce25-bea30b09fae8
 resourcetype: Document
 title: prophecies.pdf
 uid: f7ce7417-a2dd-c20a-96d6-e62f99c02150
