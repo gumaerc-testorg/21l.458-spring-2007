@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists out the testimoniums for the various verses.
-file: /media/courses/21l-458-the-bible-spring-2007/93cde882d0d171f00023a7506db2f502_testimoniums.pdf
+file: /courses/21l-458-the-bible-spring-2007/93cde882d0d171f00023a7506db2f502_testimoniums.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: testimoniums.pdf
 uid: 93cde882-d0d1-71f0-0023-a7506db2f502
 ---
+This resource lists out the testimoniums for the various verses.
+

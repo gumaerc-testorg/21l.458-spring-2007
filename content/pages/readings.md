@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the recommended bible version for
+  the course, and readings by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

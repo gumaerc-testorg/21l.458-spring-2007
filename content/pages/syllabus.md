@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course description and information on requirements
+  and grading, texts, proper citation and plagiarism, recommended citation, and a
+  calendar of lecture sessions and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -77,7 +80,7 @@ I will be using the following New Revised Standard Version of the Bible, with Ap
 
 Metzger, Bruce M., and Roland E. Murphy, eds. _The New Oxford Annotated Bible with Apocrypha: An Ecumenical Study Bible_. Revised ed. New York, NY: Oxford University Press, 1991. ISBN: 9780195283563.
 
-If you already have a different edition or translation, it's probably fine; check with me just to be sure. Page references are obviously not an issue. You will regret the lack, however, of the explanatory notes and appended supplementary material in the Oxford edition. For those of you interested in secondary sources, please see a list of particularly illuminating works featured in [study materials]({{< baseurl >}}/pages/study-materials).
+If you already have a different edition or translation, it's probably fine; check with me just to be sure. Page references are obviously not an issue. You will regret the lack, however, of the explanatory notes and appended supplementary material in the Oxford edition. For those of you interested in secondary sources, please see a list of particularly illuminating works featured in {{% resource_link aee16d14-b058-6997-31c1-c427a71b5114 "study materials" %}}.
 
 Proper Citation and Plagiarism
 ------------------------------

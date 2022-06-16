@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features a list of suggested secondary sources, provided
+  as supplementary material.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
