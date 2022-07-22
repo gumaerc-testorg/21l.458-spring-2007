@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the recommended bible version for
+  the course, and readings by lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 999dfb79-ea84-8bcf-13fa-38fec73956d2
 ---
@@ -54,7 +59,7 @@ Introduction
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Genesis
 {{< tdclose >}}
 {{< tdopen >}}
@@ -84,7 +89,7 @@ Genesis
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Exodus
 {{< tdclose >}}
 {{< tdopen >}}
@@ -167,7 +172,7 @@ Samuel, Kings
 {{< tdopen >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Isaiah[](http://etext.virginia.edu/toc/modeng/public/KjvIsai.html)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -230,7 +235,7 @@ Daniel
 {{< tdopen >}}
 17
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Synoptic Gospels (Mark, Matthew, and Luke)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -284,7 +289,7 @@ Synoptic Gospels (Mark, Matthew, and Luke)
 {{< tdopen >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 John
 {{< tdclose >}}
 {{< tdopen >}}
