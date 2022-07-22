@@ -6,6 +6,7 @@ file: /courses/21l-458-the-bible-spring-2007/230cd198dfa79328e5586d0fe517e0ff_pr
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: primeval_cycle.pdf
 uid: 230cd198-dfa7-9328-e558-6d0fe517e0ff
 ---
 This resource contains a lecture handout on motifs, themes, and symbols in the primeval cycle (Genesis 1:11-11:32).
-

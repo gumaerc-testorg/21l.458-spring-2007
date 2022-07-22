@@ -6,6 +6,7 @@ file: /courses/21l-458-the-bible-spring-2007/f7ce7417a2ddc20a96d6e62f99c02150_pr
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: prophecies.pdf
 uid: f7ce7417-a2dd-c20a-96d6-e62f99c02150
 ---
 This resource contains a lecture handout on Old Testament prophecies fulfilled in the gospel narratives.
-
