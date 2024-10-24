@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contain a lecture handout on Testimoniums.
-file: /courses/21l-458-the-bible-spring-2007/b7ec7f033411c7a5b0d505364fe6a9a0_testimoniums.pdf
+file: /ol-ocw-studio-app/courses/21l-458-the-bible-spring-2007/b7ec7f033411c7a5b0d505364fe6a9a0_testimoniums.pdf
 file_size: 17088
 file_type: application/pdf
 learning_resource_types:
