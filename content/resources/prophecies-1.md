@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains short notes on old testament prophecies.
-file: /courses/21l-458-the-bible-spring-2007/c769034231e8cd1b20ab250188ba7f98_prophecies.pdf
+file: /ol-ocw-studio-app/courses/21l-458-the-bible-spring-2007/c769034231e8cd1b20ab250188ba7f98_prophecies.pdf
 file_size: 18829
 file_type: application/pdf
 learning_resource_types: []
