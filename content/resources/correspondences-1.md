@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource lists out the differences between genesis 3 and genesis
   4.
-file: /ol-ocw-studio-app/courses/21l-458-the-bible-spring-2007/028bdd3adc6deba9de4e11687a59481d_correspondences.pdf
+file: /courses/21l-458-the-bible-spring-2007/028bdd3adc6deba9de4e11687a59481d_correspondences.pdf
 file_size: 15231
 file_type: application/pdf
 learning_resource_types: []

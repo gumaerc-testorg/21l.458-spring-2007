@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives the motifs, themes, and symbols in the primeval cycle.
-file: /ol-ocw-studio-app/courses/21l-458-the-bible-spring-2007/e9e488c28ff74582f33eed34729fdcb6_primeval_cycle.pdf
+file: /courses/21l-458-the-bible-spring-2007/e9e488c28ff74582f33eed34729fdcb6_primeval_cycle.pdf
 file_size: 23960
 file_type: application/pdf
 learning_resource_types: []
