@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists out the testimoniums for the various verses.
-file: /ol-ocw-studio-app/courses/21l-458-the-bible-spring-2007/93cde882d0d171f00023a7506db2f502_testimoniums.pdf
+file: /courses/21l-458-the-bible-spring-2007/93cde882d0d171f00023a7506db2f502_testimoniums.pdf
 file_size: 18311
 file_type: application/pdf
 learning_resource_types: []

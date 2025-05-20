@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a lecture handout on Old Testament prophecies
   fulfilled in the gospel narratives.
-file: /ol-ocw-studio-app/courses/21l-458-the-bible-spring-2007/f7ce7417a2ddc20a96d6e62f99c02150_prophecies.pdf
+file: /courses/21l-458-the-bible-spring-2007/f7ce7417a2ddc20a96d6e62f99c02150_prophecies.pdf
 file_size: 18691
 file_type: application/pdf
 learning_resource_types:
