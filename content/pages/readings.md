@@ -17,7 +17,7 @@ Metzger, Bruce M., and Roland E. Murphy. _The New Oxford Annotated Bible with Ap
 Readings by Session
 -------------------
 
-Though it is recommended that the following readings come from the version of the bible noted above, the [e-text](http://etext.virginia.edu/kjv.browse.html) of the King James version (Old and New Testaments, with the Apocrypha) is available from the Electronic Text Center at the Univesrity of Virginia.
+Though it is recommended that the following readings come from the version of the bible noted above, the {{% resource_link "5fbb07ca-86c6-4cda-a605-f83cec2943ca" "e-text" %}} of the King James version (Old and New Testaments, with the Apocrypha) is available from the Electronic Text Center at the Univesrity of Virginia.
 
   
 
@@ -63,7 +63,7 @@ Introduction
 Genesis
 {{< tdclose >}}
 {{< tdopen >}}
-[Genesis](http://etext.virginia.edu/toc/modeng/public/KjvGene.html) 1-11
+{{% resource_link "8b3f5adb-0582-4871-910e-1f0f8e1b5879" "Genesis" %}} 1-11
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +72,7 @@ Genesis
 3-4
 {{< tdclose >}}
 {{< tdopen >}}
-[Genesis](http://etext.virginia.edu/toc/modeng/public/KjvGene.html) 12-36
+{{% resource_link "8b3f5adb-0582-4871-910e-1f0f8e1b5879" "Genesis" %}} 12-36
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +81,7 @@ Genesis
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Genesis](http://etext.virginia.edu/toc/modeng/public/KjvGene.html) 37-50
+{{% resource_link "8b3f5adb-0582-4871-910e-1f0f8e1b5879" "Genesis" %}} 37-50
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +93,7 @@ Genesis
 Exodus
 {{< tdclose >}}
 {{< tdopen >}}
-[Exodus](http://etext.virginia.edu/toc/modeng/public/KjvExod.html) 1-15:21
+{{% resource_link "0d5b09b1-ffbf-4f5a-ab8f-7bd3bc8b532e" "Exodus" %}} 1-15:21
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +102,7 @@ Exodus
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Exodus](http://etext.virginia.edu/toc/modeng/public/KjvExod.html) 15:22-40:38
+{{% resource_link "0d5b09b1-ffbf-4f5a-ab8f-7bd3bc8b532e" "Exodus" %}} 15:22-40:38
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,11 +116,11 @@ Leviticus, Numbers, and Deuteronomy
 {{< tdopen >}}
 
 
-[Leviticus](http://etext.virginia.edu/toc/modeng/public/KjvLevi.html)  26:3-46
+{{% resource_link "3cd7ba73-b7b3-4bf9-b0f6-9990866a8bd2" "Leviticus" %}}  26:3-46
 
-[Numbers](http://etext.virginia.edu/toc/modeng/public/KjvNumb.html)  10:11-14:45; 20:1-13
+{{% resource_link "b84808ce-d6a4-4bae-9fb4-2be2d9c2d008" "Numbers" %}}  10:11-14:45; 20:1-13
 
-[Deuteronomy](http://etext.virginia.edu/toc/modeng/public/KjvDeut.html)  1:1-4:40
+{{% resource_link "8462c7dc-96ab-44d4-bce8-35c3e2b7ad79" "Deuteronomy" %}}  1:1-4:40
 
 
 {{< tdclose >}}
@@ -140,7 +140,7 @@ Leviticus, Numbers, and Deuteronomy
 Samuel
 {{< tdclose >}}
 {{< tdopen >}}
-[1 Samuel](http://etext.virginia.edu/toc/modeng/public/Kjv1Sam.html) and [2 Samuel](http://etext.virginia.edu/toc/modeng/public/Kjv2Sam.html)
+{{% resource_link "c681d8da-f389-462e-9e66-d0bcd134c9f9" "1 Samuel" %}} and {{% resource_link "16565b28-2530-435c-875d-e6b89433f8ed" "2 Samuel" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,9 +154,9 @@ Samuel, Kings
 {{< tdopen >}}
 
 
-[1 Samuel](http://etext.virginia.edu/toc/modeng/public/Kjv1Sam.html) and [2 Samuel](http://etext.virginia.edu/toc/modeng/public/Kjv2Sam.html)
+{{% resource_link "c681d8da-f389-462e-9e66-d0bcd134c9f9" "1 Samuel" %}} and {{% resource_link "16565b28-2530-435c-875d-e6b89433f8ed" "2 Samuel" %}}
 
-[1 Kings](http://etext.virginia.edu/toc/modeng/public/Kjv1Kgs.html) and [2 Kings](http://etext.virginia.edu/toc/modeng/public/Kjv2Kgs.html)
+{{% resource_link "510c9bf0-cb52-4384-8ed9-871f84fdf491" "1 Kings" %}} and {{% resource_link "80eba73d-a1b7-4c64-aef9-176eec727cd2" "2 Kings" %}}
 
 
 {{< tdclose >}}
@@ -173,10 +173,10 @@ Samuel, Kings
 12
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-Isaiah[](http://etext.virginia.edu/toc/modeng/public/KjvIsai.html)
+Isaiah{{% resource_link "ddb5d8dc-6814-4b0d-85f4-fc6733f57207" "" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Isaiah](http://etext.virginia.edu/toc/modeng/public/KjvIsai.html) 1-12; 14; 19; 24-27; 36-39
+{{% resource_link "ddb5d8dc-6814-4b0d-85f4-fc6733f57207" "Isaiah" %}} 1-12; 14; 19; 24-27; 36-39
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +185,7 @@ Isaiah[](http://etext.virginia.edu/toc/modeng/public/KjvIsai.html)
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Isaiah](http://etext.virginia.edu/toc/modeng/public/KjvIsai.html) 40-55
+{{% resource_link "ddb5d8dc-6814-4b0d-85f4-fc6733f57207" "Isaiah" %}} 40-55
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +203,7 @@ Isaiah[](http://etext.virginia.edu/toc/modeng/public/KjvIsai.html)
 Job
 {{< tdclose >}}
 {{< tdopen >}}
-[Job](http://etext.virginia.edu/toc/modeng/public/KjvBJob.html) 1-14; 32-42
+{{% resource_link "82a09623-8922-48ad-abe7-701f610c41cf" "Job" %}} 1-14; 32-42
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +221,7 @@ Job
 Daniel
 {{< tdclose >}}
 {{< tdopen >}}
-[Daniel](http://etext.virginia.edu/toc/modeng/public/KjvDani.html)  7-12
+{{% resource_link "7356252f-4b6c-449f-b7c7-1ea76bbd3417" "Daniel" %}}  7-12
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,11 +241,11 @@ Synoptic Gospels (Mark, Matthew, and Luke)
 {{< tdopen >}}
 
 
-[Mark](http://etext.virginia.edu/toc/modeng/public/KjvMark.html) 1
+{{% resource_link "70da81ae-a679-4ae1-a2e6-45ecddd99bbc" "Mark" %}} 1
 
-[Matthew](http://etext.virginia.edu/toc/modeng/public/KjvMatt.html)  1-4
+{{% resource_link "c18e9dcc-7f1b-4d7a-b0ea-8410189e87bf" "Matthew" %}}  1-4
 
-[Luke](http://etext.virginia.edu/toc/modeng/public/KjvLuke.html) 1-4
+{{% resource_link "7bf642ff-eac0-4f2f-b258-fee7d7100281" "Luke" %}} 1-4
 
 
 {{< tdclose >}}
@@ -258,11 +258,11 @@ Synoptic Gospels (Mark, Matthew, and Luke)
 {{< tdopen >}}
 
 
-[Mark](http://etext.virginia.edu/toc/modeng/public/KjvMark.html) 2-13
+{{% resource_link "70da81ae-a679-4ae1-a2e6-45ecddd99bbc" "Mark" %}} 2-13
 
-[Matthew](http://etext.virginia.edu/toc/modeng/public/KjvMatt.html)  5-25
+{{% resource_link "c18e9dcc-7f1b-4d7a-b0ea-8410189e87bf" "Matthew" %}}  5-25
 
-[Luke](http://etext.virginia.edu/toc/modeng/public/KjvLuke.html) 5-21
+{{% resource_link "7bf642ff-eac0-4f2f-b258-fee7d7100281" "Luke" %}} 5-21
 
 
 {{< tdclose >}}
@@ -275,11 +275,11 @@ Synoptic Gospels (Mark, Matthew, and Luke)
 {{< tdopen >}}
 
 
-[Mark](http://etext.virginia.edu/toc/modeng/public/KjvMark.html) 14-16,
+{{% resource_link "70da81ae-a679-4ae1-a2e6-45ecddd99bbc" "Mark" %}} 14-16,
 
-[Matthew](http://etext.virginia.edu/toc/modeng/public/KjvMatt.html)  26-28
+{{% resource_link "c18e9dcc-7f1b-4d7a-b0ea-8410189e87bf" "Matthew" %}}  26-28
 
-[Luke](http://etext.virginia.edu/toc/modeng/public/KjvLuke.html) 22-24
+{{% resource_link "7bf642ff-eac0-4f2f-b258-fee7d7100281" "Luke" %}} 22-24
 
 
 {{< tdclose >}}
@@ -293,7 +293,7 @@ Synoptic Gospels (Mark, Matthew, and Luke)
 John
 {{< tdclose >}}
 {{< tdopen >}}
-[John](http://etext.virginia.edu/toc/modeng/public/KjvJohn.html) 1-10
+{{% resource_link "e92ad946-6e24-4a5a-a7bf-da149c17dc89" "John" %}} 1-10
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -302,7 +302,7 @@ John
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[John](http://etext.virginia.edu/toc/modeng/public/KjvJohn.html) 11-21
+{{% resource_link "e92ad946-6e24-4a5a-a7bf-da149c17dc89" "John" %}} 11-21
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -314,7 +314,7 @@ John
 Acts of the Apostles
 {{< tdclose >}}
 {{< tdopen >}}
-All of [Acts](http://etext.virginia.edu/toc/modeng/public/KjvActs.html)
+All of {{% resource_link "35ad311e-1c9b-4043-b0b6-65892c8770b4" "Acts" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -326,7 +326,7 @@ All of [Acts](http://etext.virginia.edu/toc/modeng/public/KjvActs.html)
 Pauline Epistles (Galatians and Romans)
 {{< tdclose >}}
 {{< tdopen >}}
-All of [Galatians](http://etext.virginia.edu/toc/modeng/public/KjvGala.html) and all of [Romans](http://etext.virginia.edu/toc/modeng/public/KjvRoma.html)
+All of {{% resource_link "a9062329-8484-4744-83e0-f396e49b3223" "Galatians" %}} and all of {{% resource_link "0d9e4dbe-e532-4d17-a9f6-f70b283ae1de" "Romans" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -338,7 +338,7 @@ All of [Galatians](http://etext.virginia.edu/toc/modeng/public/KjvGala.html) an
 Revelation
 {{< tdclose >}}
 {{< tdopen >}}
-All of [Revelation](http://etext.virginia.edu/toc/modeng/public/KjvReve.html)
+All of {{% resource_link "0a818536-1d97-412e-aedb-03e4cde000cf" "Revelation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
